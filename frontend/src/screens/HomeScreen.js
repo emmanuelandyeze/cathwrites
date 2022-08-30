@@ -61,7 +61,7 @@ const HomeScreen = ({ match }) => {
 					</p>
 					<video src="/cathvideo.mp4" controls></video>
 					<a
-						href="/"
+						href="/product/630df9ffdfc91d2f24e8a308"
 						className="btn btn-primary"
 						style={{
 							borderRadius: '10px',
