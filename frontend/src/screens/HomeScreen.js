@@ -74,7 +74,7 @@ const HomeScreen = ({ match }) => {
 						Hard Copy
 					</a>
 					<a
-						href="https://www.amazon.com/dp/B0BCKJL8BG/ref=mp_s_a_1_1?crid=3B13L08W8PZ2G&keywords=when+love+howls&qid=1661945097&sprefix=when+love+howls%2Caps%2C362&sr=8-1"
+						href="https://www.amazon.com/When-Love-Howls-Idam-Ugboaku-ebook/dp/B0BCKJL8BG/ref=mp_s_a_1_1?crid=3REEAPILONJIZ&keywords=When+Love+Howls&qid=1662105130&sprefix=when+love+howls%2Caps%2C335&sr=8-1"
 						className="btn btn-primary-outline"
 						style={{
 							borderRadius: '10px',
