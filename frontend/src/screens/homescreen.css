@@ -66,6 +66,13 @@ video {
 	display: flex;
 	flex-direction: row;
 	padding: 3rem 15rem !important;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.about-text {
+	margin-left: 1rem;
+	text-align: center;
 }
 
 @media only screen and (max-width: 600px) {
@@ -126,7 +133,12 @@ video {
 
 	.about-book {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	padding: 3rem 1rem !important;
+}
+
+.about-text {
+	margin-left: 0;
+	text-align: center;
 }
 }

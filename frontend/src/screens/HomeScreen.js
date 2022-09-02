@@ -97,6 +97,17 @@ const HomeScreen = ({ match }) => {
 		  </div>
 		  <div className="about-book">
 			  <video src="/cathvideo.mp4" controls></video>
+			  <div className='about-text'>
+				  <p>
+					  This is one book that managed to hold my attention till the end despite the fact it belongs to the fantasy Genre , which I have honestly never been a fan of. It completely blew my mind. It managed to surpass my high expectations AND be nothing at all like I expected.
+
+This is Catherine’s  first novel, but she has complete control of her story and her style.
+She paints on a grand canvas, boldly and confidently… This is a very funny, warm , soul-gripping and moving book. The cast of characters are excellent. We all want a Ransel now (wink wink) , after all “when Love Howls , One has to answer!”
+
+Looking forward to reading more of her works.
+				  </p>
+				  <p>Dumebi Onyetube</p>
+			  </div>
 		  </div>
 		</>
 	);
