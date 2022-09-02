@@ -131,7 +131,6 @@ const OrderScreen = ({ match, history }) => {
                 <Message variant='danger'>Not Paid</Message>
               )}
             </ListGroup.Item>
-
             <ListGroup.Item>
               <h2>Order Items</h2>
               {order.orderItems.length === 0 ? (
@@ -155,7 +154,7 @@ const OrderScreen = ({ match, history }) => {
                           </Link>
                         </Col>
                         <Col md={4}>
-                          {item.qty} x ${item.price} = ${item.qty * item.price}
+                          {item.qty} x ₦{item.price} = ₦{item.qty * item.price}
                         </Col>
                       </Row>
                     </ListGroup.Item>
@@ -174,26 +173,27 @@ const OrderScreen = ({ match, history }) => {
               <ListGroup.Item>
                 <Row>
                   <Col>Items</Col>
-                  <Col>${order.itemsPrice}</Col>
+                  <Col>₦{order.itemsPrice}</Col>
                 </Row>
               </ListGroup.Item>
               <ListGroup.Item>
                 <Row>
                   <Col>Shipping</Col>
-                  <Col>${order.shippingPrice}</Col>
-                </Row>
-              </ListGroup.Item>
-              <ListGroup.Item>
-                <Row>
-                  <Col>Tax</Col>
-                  <Col>${order.taxPrice}</Col>
+                  <Col>₦{order.shippingPrice}</Col>
                 </Row>
               </ListGroup.Item>
               <ListGroup.Item>
                 <Row>
                   <Col>Total</Col>
-                  <Col>${order.totalPrice}</Col>
+                  <Col>₦{order.totalPrice}</Col>
                 </Row>
+                  </ListGroup.Item>
+                  <ListGroup.Item style={{backgroundColor: '#2C2E2F', color: '#fff'}}>
+                    <h2 style={{fontSize: '1rem', textAlign: 'center', fontWeight: 'bold'}}>Pay with Bank transfer</h2>
+                    <h4 style={{fontSize: '.8rem', textAlign: 'center', fontWeight: 'bold'}}>2072511752</h4>
+                    <h4 style={{fontSize: '.8rem', textAlign: 'center', fontWeight: 'bold'}}>UBA</h4>
+                    <h4 style={{ fontSize: '.8rem', textAlign: 'center', fontWeight: 'bold' }}>Idam, Catherine Ugboaku</h4>
+                    <p style={{ fontSize: '.8rem', textAlign: 'center', fontWeight: 'bold' }}>Make payment with <span style={{color: 'red', fontWeight: '700'}}>order number</span> as description and forward proof of payment to <span style={{color: 'red', fontWeight: '700'}}>07083997017</span> via whatsapp</p>
               </ListGroup.Item>
               {!order.isPaid && (
                 <ListGroup.Item>

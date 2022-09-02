@@ -10,50 +10,31 @@ function AboutScreen() {
 			<div className="author-about">
 				<h1>Hi, I am Catherine Idam</h1>
 				<p>
-					Lorem ipsum dolor sit amet consectetur,
-					adipisicing elit. Commodi accusantium sequi quos
-					consequatur voluptas aliquid asperiores nobis
-					voluptatem, voluptates ea molestiae adipisci
-					assumenda eaque incidunt culpa dicta fugiat quae
-					nam eveniet est. Eaque rem molestiae eos
-					reprehenderit, tempora, sint mollitia natus
-					incidunt doloribus commodi accusamus minima
-					sapiente saepe iusto dignissimos?
-				</p>
-				<p>
-					Lorem, ipsum dolor sit amet consectetur
-					adipisicing elit. Vero, ipsa sunt consequuntur
-					doloremque officia porro eum odit numquam
-					aspernatur alias facilis enim est cum rem aperiam
-					commodi autem fugiat laborum ipsam molestias?
-					Iure, quod non animi, sed dignissimos enim aperiam
-					distinctio consequuntur eius voluptatibus ratione
-					in illo, molestiae vel similique.
-				</p>
-				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing
-					elit. Magnam, aliquid voluptatem corporis delectus
-					praesentium quod. Facilis atque fuga repudiandae
-					pariatur et architecto alias quis vero rem esse
-					veritatis impedit culpa omnis a necessitatibus
-					corrupti fugiat, expedita ad dolores provident
-					sequi adipisci laudantium. Cumque dolorem aperiam
-					ratione pariatur laboriosam. Vero, reiciendis.
+					Catherine Idam is a writer of fiction and
+					non-fiction. Born and raised in Nigeria,  she
+					started writing poems at age 8. She is currently a
+					law student in the University of Lagos. She loves
+					to write poems in her leisure, alongside taking
+					pictures of the sky. She is the last of three
+					children who loves her family so much. She loves
+					to travel and supports climate action for
+					environmental sustainability. She runs an
+					afrocentric brand named Catriq Fashion. They make
+					a wide ranged of African-print themed products.
+					Catherine is a hardworking young woman, who can
+					never be found idle.
 				</p>
 				<p>
 					Let's keep in touch on my social media channels.
 				</p>
 				<div className="social-icons">
-					<a href="/">
+					<a href="https://www.facebook.com/idam.ugboakucatherine.9">
 						<i class="fab fa-facebook"></i>
 					</a>
-					<a href="/">
-						<i class="fab fa-twitter"></i>
-					</a>
-					<a href="/">
+					<a href="https://www.linkedin.com/in/idam-ugboaku-catherine-22573a188">
 						<i class="fab fa-linkedin"></i>
 					</a>
-					<a href="/">
+					<a href="https://www.instagram.com/cathwrites/">
 						<i class="fab fa-instagram"></i>
 					</a>
 				</div>

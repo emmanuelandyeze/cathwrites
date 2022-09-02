@@ -70,10 +70,11 @@ const HomeScreen = ({ match }) => {
 							marginRight: '1rem',
 						}}
 					>
-						<i className="fas fa-shopping-cart"></i> Buy Now
+						<i className="fas fa-shopping-cart"></i> Get
+						Hard Copy
 					</a>
 					<a
-						href="/about"
+						href="https://www.amazon.com/dp/B0BCKJL8BG/ref=mp_s_a_1_1?crid=3B13L08W8PZ2G&keywords=when+love+howls&qid=1661945097&sprefix=when+love+howls%2Caps%2C362&sr=8-1"
 						className="btn btn-primary-outline"
 						style={{
 							borderRadius: '10px',
@@ -81,8 +82,10 @@ const HomeScreen = ({ match }) => {
 							backgroundColor: '#fff',
 							border: '1px solid #5B2F68',
 						}}
+						target="_blank"
 					>
-						About Catherine
+						<i className="fas fa-shopping-cart"></i> Buy on
+						Amazon
 					</a>
 				</div>
 				<div className="landing-image">
