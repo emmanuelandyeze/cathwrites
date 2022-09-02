@@ -19,15 +19,14 @@ const Header = () => {
   return (
 		<header>
 			<Navbar
-				bg="light"
-				variant="light"
+				variant="dark"
 				expand="lg"
 				collapseOnSelect
 				style={{
 					borderBottom: '0px',
 					fontFamily: 'Open Sans',
-          textTransform: 'capitalize',
-          backgroundColor: '#fff'
+					textTransform: 'capitalize',
+					backgroundColor: '#5C3464'
 				}}
 			>
 				<Container>
@@ -39,7 +38,7 @@ const Header = () => {
 							}}
 						>
 							Cath
-							<span style={{ color: '#5B2F68' }}>
+							<span style={{ color: '#5' }}>
 								Writes
 							</span>
 						</Navbar.Brand>

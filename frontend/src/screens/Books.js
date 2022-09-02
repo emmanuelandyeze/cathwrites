@@ -9,6 +9,7 @@ import Paginate from '../components/Paginate';
 import ProductCarousel from '../components/ProductCarousel';
 import Meta from '../components/Meta';
 import { listProducts } from '../actions/productActions';
+import './homescreen.css'
 
 function Books({ match }) {
 	const keyword = match.params.keyword;
@@ -36,7 +37,7 @@ function Books({ match }) {
 				<Message variant="danger">{error}</Message>
 			) : (
 				<>
-					<Row>
+					<Row className='about'>
 						{products.map((product) => (
 							<Col
 								key={product._id}

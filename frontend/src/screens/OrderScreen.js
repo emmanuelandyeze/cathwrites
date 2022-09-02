@@ -188,7 +188,7 @@ const OrderScreen = ({ match, history }) => {
                   <Col>₦{order.totalPrice}</Col>
                 </Row>
                   </ListGroup.Item>
-                  <ListGroup.Item style={{backgroundColor: '#2C2E2F', color: '#fff'}}>
+                  <ListGroup.Item style={{backgroundColor: '#5C3464', color: '#fff'}}>
                     <h2 style={{fontSize: '1rem', textAlign: 'center', fontWeight: 'bold'}}>Pay with Bank transfer</h2>
                     <h4 style={{fontSize: '.8rem', textAlign: 'center', fontWeight: 'bold'}}>2072511752</h4>
                     <h4 style={{fontSize: '.8rem', textAlign: 'center', fontWeight: 'bold'}}>UBA</h4>

@@ -34,7 +34,7 @@ const HomeScreen = ({ match }) => {
 			>
 				<div className="landing-text">
 					<p
-						style={{ color: '#5B2F68', fontWeight: '600' }}
+						style={{ color: '#fff', fontWeight: '600' }}
 					>
 						Latest release
 					</p>
@@ -59,14 +59,16 @@ const HomeScreen = ({ match }) => {
 						When Love Howls is a story of love, secrets,
 						hard decisions and werewolves.
 					</p>
-					<video src="/cathvideo.mp4" controls></video>
+					
 					<a
 						href="/product/630df9ffdfc91d2f24e8a308"
 						className="btn btn-primary"
 						style={{
+							
 							borderRadius: '10px',
-							color: '#fff',
-							backgroundColor: '#5B2F68',
+							color: '#5B2F68',
+							backgroundColor: '#fff',
+							border: '1px solid #5B2F68',
 							marginRight: '1rem',
 						}}
 					>
@@ -78,9 +80,10 @@ const HomeScreen = ({ match }) => {
 						className="btn btn-primary-outline"
 						style={{
 							borderRadius: '10px',
-							color: '#5B2F68',
-							backgroundColor: '#fff',
-							border: '1px solid #5B2F68',
+							color: '#fff',
+							backgroundColor: '#5B2F68',
+							
+							border: '1px solid #fff'
 						}}
 						target="_blank"
 					>
@@ -91,7 +94,10 @@ const HomeScreen = ({ match }) => {
 				<div className="landing-image">
 					<img src="/book.png" alt="book image" />
 				</div>
-			</div>
+		  </div>
+		  <div className="about-book">
+			  <video src="/cathvideo.mp4" controls></video>
+		  </div>
 		</>
 	);
 }
