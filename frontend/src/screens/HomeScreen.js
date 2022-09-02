@@ -111,21 +111,7 @@ Looking forward to reading more of her works.
 		  </div>
 		  <div className="blog-post">
 			  <div className="blog-cards">
-				  <div className="blog-card">
-					  <img src="/blog/3.jpeg" alt="" />
-					  <h4>Uneasy lies ahead</h4>
-					  <p>
-						  I no lie gv u, tru tru, I no go skul. I begin dey go de 1 wey dey my area, buh de tin tire me n I Kum stopam. 4 klass, al de smal smal pikin dem dey cal me PapaLohloh, some dey cal mi Itiboribo. How my mama go tell me wey dey 9 years, make I stay for primary 1? bcuz wen I bin sopoz dey dat klas, my papa cum dey weak 4 em bodi, n I no fit go skul agen. 
-
-Na 19 wey I dey nw. I no fit enter Js1. I no dey pas de ekzam wey go gree mi make I entaram. Dem dey call am komon entranz, buh na lie, e no komon at al. De tin hard mi die. 
-
-Dis weebarro wey I dey push for market, na em I laik pass. I fit make 3500 if maket dey. 2dey maket no de, na Sonday, n pipo no kom buy plenti plenti tins. 
-
-Wen I dey praimari 3, our tisha tuk say "Uneazi lies de head dat wheres de krown". She tuk say pesin wey dey do boss, no dey res. 
-Buh I no be king, I no get any krown. Na mi dey oganiz al de boiz wey dey push weebarro 4 dis aria. True tuk, my head no dey res. Honga dey kash me, my head dey pain mi. Upon tuk say na be be boss for dis aria I no go lie giv u, hozul 4 dis strit dey had. Ahlis de head wey my english tisha tuk geh crown, e fit sell am geh money. I no geh any1, I no evn geh moni bahba head wey de krown go dey on top. Hunga dey wire mi walai.
-(Snippets from Blakboi:Lord of the streets. Muse:Reverbbeats)
-					  </p>
-				  </div>
+				  
 				  <div className="blog-card">
 					  <img src="/blog/2.jpeg" alt="" />
 					  {/* <h4>Uneasy lies ahead</h4> */}
@@ -137,6 +123,100 @@ The old man and his tired stick. The mad woman who never stops soliloquising. Ca
  Children who never get tired of playing. Then the blue sky, acting like mother nature. 
 
 Our ever present canopy..... smile on me blue sky! I'm tired, and in dire need of bottled water🤦🏼‍♀🤦🏼‍♀🤦🏼‍♀
+					  </p>
+				  </div>
+				  <div className="blog-card">
+					  <img src="/blog/14.jpeg" alt="" />
+					  <p>
+						  Again, the tale that has no end. Intentions long discarded, motions borne of necessity. To live without a soul, like a shoe with no sole, trudging through the mud, and having feet soggy with undesirable layers of clay. Speed slowed, deceleration so long lasting no measurements are taken. If the mind had a name, it would be the home of intentions. Intentions so deep, words long sought, yet unfound and never to be found. 
+Again, intentions long discarded, left are motions, motions in circles, in squares, in rectangles,trapeziums, and often like the zigzag motion of the mad man who has no soul. 
+Words must never have a definite meaning, as meanings can be found in gestures like a nod of the head, an eyebrow raised, or the cloak of silence that speaks louder than words of a thousand misunderstood intents. To live like a hermit, deep in the cave of self isolation,reflections so often revisited and rumpled with ratiocination, wearied like the leaves of a wind battered tree,cascading down in form of tears,as the mind has reached its climax,and as always,words cannot suffice so tears do.
+(Snippet from Igloo:In my hood)
+					  </p>
+				  </div>
+			  </div>
+		  </div>
+
+		  <div className="blog-post">
+			  <div className="blog-cards">
+				  
+				  <div className="blog-card">
+					  <img src="/blog/12.jpeg" alt="" />
+					  {/* <h4>Uneasy lies ahead</h4> */}
+					  <p>
+						  And She whispered to my raging heart 
+"Just like the palm tree,
+ Grow so tall and farther away from uncertainties. 
+Take your roots deeper,
+ Take your branches higher, 
+Though they may whither with the most unfavourable weathers,
+ Still spread them. 
+This heart was made for the wild,
+So grab it, with every single strength you have left. 
+You dreamt of the stars?
+ Go get them! 
+You envisaged the sweet carcass of the whirlwind? 
+Then let it blow those withered branches off. 
+Grow Young heart. 
+Grow into the blue sky. 
+Though you stand alone,
+ Remember that alone is not always ab-norm. 
+You were made to grow, so grow." 
+ 
+And I replied
+ "Your words are the igloos I ever found the safest warmth.
+ I'll soak in them,
+Till my cold nerves shiver no more.
+ I love your warmth. 
+It's the place of my tranquillity.
+Again I said,
+ "I'll soak in your words"
+					  </p>
+				  </div>
+				  <div className="blog-card">
+					  <img src="/blog/13.jpeg" alt="" />
+					  {/* <h4>Uneasy lies the head</h4> */}
+					  <p>
+						  And if my heart be troubled, in need of some temporal calm. 
+And if my heart be bored, in need for some new scenes 
+And if need be that I receive some psychological relief, 
+May I find them in the pages of a book. 
+
+May i flip through different scenarios, 
+And live in the worlds books afford you. 
+The ability to be yet not be,
+To smile in a world not yours, and be too many a character you aren't.  
+
+If perhaps I miss my friends 
+Reminiscence therefore the very haven of my emotional safety 
+May I find solace in the arms of my best reads 
+And smile with satisfaction at the companionship of such mentally dogeared pages. 
+
+And perhaps I fall out with my love,
+And words cannot be said, and calls not be made. 
+May I fall into the arms of my best lines, 
+As I think on days when there was no love lost 
+
+If perhaps I need some calm,
+Some break from the immediate environ,
+May I sit still, and let the breeze remind me
+Of a line in a book long read, whose significance is momentarily irrelevant. 
+
+If I miss home, my demised parents, and a childhood long gone. 
+May I rest on the wings of the colourful pages of my bedtime stories,
+As my mind flips through the pages of the girl who slept on the heap of hay. 
+May I smile with fulfilment, I had a good childhood, one filled with books. 
+
+And if I get weary of human interactions, 
+Needing some space for 'being' at the time being 
+May I find them on the pages of a new read, wrapped in the adventure and discovery it affords  
+
+And perhaps if this poem is ever relatable,
+Of the love, relief, emotional attachment books and words have become to me
+May it deepen my love for words and quest for knowledge 
+And may I find more calm and solace on the pages of a book 
+
+Snippet from: Pass me a book,I wanna hibernate
 					  </p>
 				  </div>
 			  </div>
