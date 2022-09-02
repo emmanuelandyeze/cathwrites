@@ -116,17 +116,13 @@ Looking forward to reading more of her works.
 					  <img src="/blog/2.jpeg" alt="" />
 					  {/* <h4>Uneasy lies ahead</h4> */}
 					  <p>
-						  An optical illusion. It's there but not there. Delusion and little bright hallucinations! Then seizures, sending rapid sensations down my spine. Then the colour wheel... who invented such stereotypes? Why can't orange be a primary colour? Unnecessary standards put in place by someone who is probably dead. Physics and quantum leaps. Chemistry and the unbalanceable emotions of a young girl in love,who is in a hurry to be under the melina tree. 
+						  To think of words as shapes, and feelings as lines. Or better still, to swap the both. So here I go, first it's cursive; with a smooth uninterrupted flow, displaying the thousand beauties of good penmanship. And then it's zigzag, like the unsettled heartbeats of a man in trouble. So scattered, disheveled and done in great haste. And then it is a square, being tried to fit in a round hole. And then it's the sides of a trapezium, I remember the formula ½(a+b)h?
 
-The old man and his tired stick. The mad woman who never stops soliloquising. Cars moving too fast.
-
- Children who never get tired of playing. Then the blue sky, acting like mother nature. 
-
-Our ever present canopy..... smile on me blue sky! I'm tired, and in dire need of bottled water🤦🏼‍♀🤦🏼‍♀🤦🏼‍♀
+And then it is sinusoidal as a little rhythm seems to be added. A little bit of consistency, and uninterrupted flow again. And back to the zigzag, with truncated triangles of patterned randomness. To live like a triangle they say, a triangle enmeshed in sinusoidal lines. A triangle wrapped in zigzags. A cursive interjected by zigzags. To flow with a rhythm, and have no pattern still. To be as beautiful as a cursive, but as irregular as a zigzag and inconsistently so. To be round like a circle, yet a bit boring like a triangle. To move in a vacuum, as no space seems to be occupied. To be like the wind, felt but never held. To never be a tree, rooted and always found in a spot. To stare at the roof, wondering how on earth I thought lines and shapes could ever replace words and feelings. (A snippet from: Igloo,in my hood)
 					  </p>
 				  </div>
 				  <div className="blog-card">
-					  <img src="/blog/14.jpeg" alt="" />
+					  <img src="/blog/11.jpeg" alt="" />
 					  <p>
 						  Again, the tale that has no end. Intentions long discarded, motions borne of necessity. To live without a soul, like a shoe with no sole, trudging through the mud, and having feet soggy with undesirable layers of clay. Speed slowed, deceleration so long lasting no measurements are taken. If the mind had a name, it would be the home of intentions. Intentions so deep, words long sought, yet unfound and never to be found. 
 Again, intentions long discarded, left are motions, motions in circles, in squares, in rectangles,trapeziums, and often like the zigzag motion of the mad man who has no soul. 
@@ -170,7 +166,7 @@ Till my cold nerves shiver no more.
  I love your warmth. 
 It's the place of my tranquillity.
 Again I said,
- "I'll soak in your words"
+ "I'll soak in your words".
 					  </p>
 				  </div>
 				  <div className="blog-card">
@@ -214,9 +210,9 @@ May I find them on the pages of a new read, wrapped in the adventure and discove
 And perhaps if this poem is ever relatable,
 Of the love, relief, emotional attachment books and words have become to me
 May it deepen my love for words and quest for knowledge 
-And may I find more calm and solace on the pages of a book 
+And may I find more calm and solace on the pages of a book. 
 
-Snippet from: Pass me a book,I wanna hibernate
+(Snippet from: Pass me a book,I wanna hibernate)
 					  </p>
 				  </div>
 			  </div>
