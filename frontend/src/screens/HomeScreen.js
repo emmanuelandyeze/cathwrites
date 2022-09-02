@@ -109,6 +109,38 @@ Looking forward to reading more of her works.
 				  <p>Dumebi Onyetube</p>
 			  </div>
 		  </div>
+		  <div className="blog-post">
+			  <div className="blog-cards">
+				  <div className="blog-card">
+					  <img src="/blog/3.jpeg" alt="" />
+					  <h4>Uneasy lies ahead</h4>
+					  <p>
+						  I no lie gv u, tru tru, I no go skul. I begin dey go de 1 wey dey my area, buh de tin tire me n I Kum stopam. 4 klass, al de smal smal pikin dem dey cal me PapaLohloh, some dey cal mi Itiboribo. How my mama go tell me wey dey 9 years, make I stay for primary 1? bcuz wen I bin sopoz dey dat klas, my papa cum dey weak 4 em bodi, n I no fit go skul agen. 
+
+Na 19 wey I dey nw. I no fit enter Js1. I no dey pas de ekzam wey go gree mi make I entaram. Dem dey call am komon entranz, buh na lie, e no komon at al. De tin hard mi die. 
+
+Dis weebarro wey I dey push for market, na em I laik pass. I fit make 3500 if maket dey. 2dey maket no de, na Sonday, n pipo no kom buy plenti plenti tins. 
+
+Wen I dey praimari 3, our tisha tuk say "Uneazi lies de head dat wheres de krown". She tuk say pesin wey dey do boss, no dey res. 
+Buh I no be king, I no get any krown. Na mi dey oganiz al de boiz wey dey push weebarro 4 dis aria. True tuk, my head no dey res. Honga dey kash me, my head dey pain mi. Upon tuk say na be be boss for dis aria I no go lie giv u, hozul 4 dis strit dey had. Ahlis de head wey my english tisha tuk geh crown, e fit sell am geh money. I no geh any1, I no evn geh moni bahba head wey de krown go dey on top. Hunga dey wire mi walai.
+(Snippets from Blakboi:Lord of the streets. Muse:Reverbbeats)
+					  </p>
+				  </div>
+				  <div className="blog-card">
+					  <img src="/blog/2.jpeg" alt="" />
+					  {/* <h4>Uneasy lies ahead</h4> */}
+					  <p>
+						  An optical illusion. It's there but not there. Delusion and little bright hallucinations! Then seizures, sending rapid sensations down my spine. Then the colour wheel... who invented such stereotypes? Why can't orange be a primary colour? Unnecessary standards put in place by someone who is probably dead. Physics and quantum leaps. Chemistry and the unbalanceable emotions of a young girl in love,who is in a hurry to be under the melina tree. 
+
+The old man and his tired stick. The mad woman who never stops soliloquising. Cars moving too fast.
+
+ Children who never get tired of playing. Then the blue sky, acting like mother nature. 
+
+Our ever present canopy..... smile on me blue sky! I'm tired, and in dire need of bottled water🤦🏼‍♀🤦🏼‍♀🤦🏼‍♀
+					  </p>
+				  </div>
+			  </div>
+		  </div>
 		</>
 	);
 }

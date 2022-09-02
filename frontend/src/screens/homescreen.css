@@ -75,6 +75,22 @@ video {
 	text-align: center;
 }
 
+.blog-cards {
+	padding: 3rem 15rem !important;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.blog-card {
+	width: 45%;
+	border-radius: 10px;
+	padding: 2rem;
+}
+
+.blog-card img {
+	height: 20rem;
+}
+
 @media only screen and (max-width: 600px) {
 	.landing {
 		display: flex;
@@ -140,5 +156,22 @@ video {
 .about-text {
 	margin-left: 0;
 	text-align: center;
+}
+
+.blog-cards {
+	padding: 3rem 1rem !important;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.blog-card {
+	width: 95%;
+	border-radius: 10px;
+	padding: 1rem;
+	margin-bottom: 1rem;
+}
+
+.blog-card img {
+	height: 15rem;
 }
 }
