@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import axios from 'axios'
 import { PayPalButton } from 'react-paypal-button-v2'
 import { Link } from 'react-router-dom'
-import { Row, Col, ListGroup, Image, Card, Button } from 'react-bootstrap'
+import { Row, Col, ListGroup, Image, Card, Button, Container } from 'react-bootstrap'
 import { useDispatch, useSelector } from 'react-redux'
 import Message from '../components/Message'
 import Loader from '../components/Loader'
@@ -90,7 +90,8 @@ const OrderScreen = ({ match, history }) => {
   ) : error ? (
     <Message variant='danger'>{error}</Message>
   ) : (
-    <>
+        <>
+          <Container>
       <h1>Order {order._id}</h1>
       <Row>
         <Col md={8}>
@@ -193,10 +194,11 @@ const OrderScreen = ({ match, history }) => {
                     <h4 style={{fontSize: '.8rem', textAlign: 'center', fontWeight: 'bold'}}>2072511752</h4>
                     <h4 style={{fontSize: '.8rem', textAlign: 'center', fontWeight: 'bold'}}>UBA</h4>
                     <h4 style={{ fontSize: '.8rem', textAlign: 'center', fontWeight: 'bold' }}>Idam, Catherine Ugboaku</h4>
-                    <p style={{ fontSize: '.8rem', textAlign: 'center', fontWeight: 'bold' }}>Make payment with <span style={{color: 'red', fontWeight: '700'}}>order number</span> as description and forward proof of payment to <span style={{color: 'red', fontWeight: '700'}}>07083997017</span> via whatsapp</p>
+                      <p style={{ fontSize: '.8rem', textAlign: 'center', fontWeight: 'bold' }}>Make payment with <span style={{ color: '#FFC439', fontWeight: '700' }}>order number</span> as description and forward proof of payment to <span style={{ color: '#FFC439', fontWeight: '700' }}>07083997017</span> via whatsapp</p>
+                      <a href="https://wa.me/7083997017" style={{textAlign: 'center', backgroundColor: '#FFC439', color: '#fff', padding: '5px 10px', margin: '0 5rem', textDecoration: 'none', borderRadius: '8px', width: '60%'}}>Click when done</a>
               </ListGroup.Item>
               {!order.isPaid && (
-                <ListGroup.Item>
+                <ListGroup.Item style={{display: 'none'}}>
                   {loadingPay && <Loader />}
                   {!sdkReady ? (
                     <Loader />
@@ -226,7 +228,8 @@ const OrderScreen = ({ match, history }) => {
             </ListGroup>
           </Card>
         </Col>
-      </Row>
+            </Row>
+            </Container>
     </>
   )
 }

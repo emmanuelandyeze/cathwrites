@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
-import { Row, Col } from 'react-bootstrap';
+import { Row, Col, Container } from 'react-bootstrap';
 import Product from '../components/Product';
 import Message from '../components/Message';
 import Loader from '../components/Loader';
@@ -29,6 +29,7 @@ function Books({ match }) {
 	}, [dispatch, keyword, pageNumber]);
 	return (
 		<>
+			<Container>
 			<Meta />
 			<h1>Latest Works</h1>
 			{loading ? (
@@ -37,7 +38,7 @@ function Books({ match }) {
 				<Message variant="danger">{error}</Message>
 			) : (
 				<>
-					<Row className='about'>
+					<Row>
 						{products.map((product) => (
 							<Col
 								key={product._id}
@@ -56,7 +57,8 @@ function Books({ match }) {
 						keyword={keyword ? keyword : ''}
 					/>
 				</>
-			)}
+				)}
+				</Container>
 		</>
 	);
 }
